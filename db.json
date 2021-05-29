@@ -2,90 +2,98 @@
   "burgers": [
     {
       "id": 0,
-      "name": "placeholder",
-      "restaurant": "placeholder",
-      "web": "placeholder",
-      "description": "placeholder",
-      "ingredients": "placeholder",
+      "name": "Double Patty Cheeseburger",
+      "restaurant": "Matty's Patty's",
+      "web": "https://www.mattyspattysburgerclub.com/",
+      "description": "Double Patty cheessburgers come with two 3oz patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "two 3oz patty's, american cheese, sesame seed milk bun",
       "addresses": [
         {
           "addressID": "0",
-          "number": "placeholder",
-          "line1": "placeholder",
+          "number": "923a ",
+          "line1": "Queen St W",
           "line2": "Toronto",
-          "postalCode": "placeholder",
+          "postalCode": "M6J 1G5",
           "country": "Canada"
         }
       ]
     },
     {
       "id": 1,
-      "name": "placeholder",
-      "restaurant": "placeholder",
-      "web": "placeholder",
-      "description": "placeholder",
-      "ingredients": "placeholder",
+      "name": "Original",
+      "restaurant": "Burger Drops",
+      "web": "https://www.burgerdrops.com/",
+      "description": "Our burgers are made with our signiture blend of premium AAA beef cutes, delivered fresh each weel and ground in-house daily.",
+      "ingredients": "AAA beef, sweet onion, american cheese, house pickles, potato roll",
       "addresses": [
         {
           "addressID": "0",
-          "number": "placeholder",
-          "line1": "placeholder",
+          "number": "116",
+          "line1": "Atlantic ave",
           "line2": "Toronto",
-          "postalCode": "placeholder",
+          "postalCode": "M6K 1X9",
           "country": "Canada"
         }
       ]
     },
     {
       "id": 2,
-      "name": "placeholder",
-      "restaurant": "placeholder",
-      "web": "placeholder",
-      "description": "placeholder",
-      "ingredients": "placeholder",
+      "name": "Impossible Burger",
+      "restaurant": "Extra Burger",
+      "web": "https://extraburger.ca/",
+      "description": "Vegetarian, not vegan",
+      "ingredients": "Impossible Burger, american cheese, tomatoes, pickles, lettuce, secret sauce, martin's potato roll",
       "addresses": [
         {
           "addressID": "0",
-          "number": "placeholder",
-          "line1": "placeholder",
+          "number": "269",
+          "line1": "Dunn ave",
           "line2": "Toronto",
-          "postalCode": "placeholder",
+          "postalCode": "M6K 2S1",
+          "country": "Canada"
+        },
+        {
+          "addressID": "1",
+          "number": "1265",
+          "line1": "Dundas st. W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1X6",
           "country": "Canada"
         }
       ]
     },
     {
       "id": 3,
-      "name": "placeholder",
-      "restaurant": "placeholder",
-      "web": "placeholder",
-      "description": "placeholder",
-      "ingredients": "placeholder",
+      "name": "The Bulldozer",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "lamb, havarti, mango salsa, jalapeno, chipotle aioli",
       "addresses": [
         {
           "addressID": "0",
-          "number": "placeholder",
-          "line1": "placeholder",
+          "number": "269",
+          "line1": "Augusta ave",
           "line2": "Toronto",
-          "postalCode": "placeholder",
+          "postalCode": "M5T 2M1",
           "country": "Canada"
         }
       ]
     },
     {
       "id": 4,
-      "name": "placeholder",
-      "restaurant": "placeholder",
-      "web": "placeholder",
-      "description": "placeholder",
-      "ingredients": "placeholder",
+      "name": "The Kumasi Burger",
+      "restaurant": "Aunty Lucy's",
+      "web": "https://www.instagram.com/auntylucysburgers/",
+      "description": "Pop-up. Named after the city in Ghana where owner Chieff Bosompra's father is from",
+      "ingredients": "american cheese, lettuce, tomato, Lucy sauce",
       "addresses": [
         {
           "addressID": "0",
-          "number": "placeholder",
-          "line1": "placeholder",
+          "number": "296",
+          "line1": "Brunswick ave",
           "line2": "Toronto",
-          "postalCode": "placeholder",
+          "postalCode": "M5S 1X9",
           "country": "Canada"
         }
       ]
