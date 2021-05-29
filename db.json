@@ -1,0 +1,94 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "placeholder",
+      "restaurant": "placeholder",
+      "web": "placeholder",
+      "description": "placeholder",
+      "ingredients": "placeholder",
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "placeholder",
+          "line1": "placeholder",
+          "line2": "Toronto",
+          "postalCode": "placeholder",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "placeholder",
+      "restaurant": "placeholder",
+      "web": "placeholder",
+      "description": "placeholder",
+      "ingredients": "placeholder",
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "placeholder",
+          "line1": "placeholder",
+          "line2": "Toronto",
+          "postalCode": "placeholder",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "placeholder",
+      "restaurant": "placeholder",
+      "web": "placeholder",
+      "description": "placeholder",
+      "ingredients": "placeholder",
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "placeholder",
+          "line1": "placeholder",
+          "line2": "Toronto",
+          "postalCode": "placeholder",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "placeholder",
+      "restaurant": "placeholder",
+      "web": "placeholder",
+      "description": "placeholder",
+      "ingredients": "placeholder",
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "placeholder",
+          "line1": "placeholder",
+          "line2": "Toronto",
+          "postalCode": "placeholder",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "placeholder",
+      "restaurant": "placeholder",
+      "web": "placeholder",
+      "description": "placeholder",
+      "ingredients": "placeholder",
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "placeholder",
+          "line1": "placeholder",
+          "line2": "Toronto",
+          "postalCode": "placeholder",
+          "country": "Canada"
+        }
+      ]
+    }
+  ]
+}
