@@ -2,11 +2,14 @@
   "burgers": [
     {
       "id": 0,
-      "name": "Double Patty Cheeseburger",
+      "name": "Matty's 7oz Cheeseburger",
       "restaurant": "Matty's Patty's",
       "web": "https://www.mattyspattysburgerclub.com/",
-      "description": "Double Patty cheessburgers come with two 3oz patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
-      "ingredients": "two 3oz patty's, american cheese, sesame seed milk bun",
+      "image":"https://www.instagram.com/p/CMqItVbg8Cs/",
+      "description": "7oz cheeseburgers come with one 7oz patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "One 7oz patty's, american cheese, sesame seed milk bun, mustard sauce, pickles, onions",
+      "optionals": "Bacon, lettuce bun, Matty's Patty's Sauce, Pickled Jalapeno Mayo, Spicy Ketchup",
+      "isVegetarian": false,
       "addresses": [
         {
           "addressID": "0",
@@ -20,11 +23,140 @@
     },
     {
       "id": 1,
+      "name": "Single Patty Cheeseburger",
+      "restaurant": "Matty's Patty's",
+      "web": "https://www.mattyspattysburgerclub.com/",
+      "image":"https://www.instagram.com/p/CH54KUXgbap/",
+      "description": "DSingle Patty cheeseburgers come with one 3oz patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "one 3oz patty's, american cheese, sesame seed milk bun",
+      "optionals": "Bacon, lettuce bun, Matty's Patty's Sauce, Pickled Jalapeno Mayo, Spicy Ketchup",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "923a ",
+          "line1": "Queen St W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1G5",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Double Patty Cheeseburger",
+      "restaurant": "Matty's Patty's",
+      "web": "https://www.mattyspattysburgerclub.com/",
+      "image":"https://www.instagram.com/p/CH-yReXAVwO/",
+      "description": "Double Patty cheeseburgers come with two 3oz patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "two 3oz patty's, american cheese, sesame seed milk bun",
+      "optionals": "Bacon, lettuce bun, Matty's Patty's Sauce, Pickled Jalapeno Mayo, Spicy Ketchup",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "923a ",
+          "line1": "Queen St W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1G5",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Triple Patty Cheeseburger",
+      "restaurant": "Matty's Patty's",
+      "web": "https://www.mattyspattysburgerclub.com/",
+      "image":"https://www.instagram.com/p/CJ6UQ6KgzPL/",
+      "description": "Triple cheeseburgers come with three 3oz patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "three 3oz patty's, american cheese, sesame seed milk bun",
+      "optionals": "Bacon, lettuce bun, Matty's Patty's Sauce, Pickled Jalapeno Mayo, Spicy Ketchup",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "923a ",
+          "line1": "Queen St W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1G5",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Single Impossible Cheeseburger",
+      "restaurant": "Matty's Patty's",
+      "web": "https://www.mattyspattysburgerclub.com/",
+      "image":"https://media.istockphoto.com/photos/error-with-a-kitten-picture-id856017598?k=6&m=856017598&s=170667a&w=0&h=kfJbRdH8sX4bNs96rdBcxL8a78DYH7Pd4F6CmmqALfE=",
+      "description": "Impossible cheeseburger (plant-based) come with one patty, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "one patty, american cheese, sesame seed milk bun",
+      "optionals": "Bacon, lettuce bun, Matty's Patty's Sauce, Pickled Jalapeno Mayo, Spicy Ketchup",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "923a ",
+          "line1": "Queen St W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1G5",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Double Impossible Cheeseburger",
+      "restaurant": "Matty's Patty's",
+      "web": "https://www.mattyspattysburgerclub.com/",
+      "image":"https://media.istockphoto.com/photos/error-with-a-kitten-picture-id856017598?k=6&m=856017598&s=170667a&w=0&h=kfJbRdH8sX4bNs96rdBcxL8a78DYH7Pd4F6CmmqALfE=",
+      "description": "Impossible cheeseburger (plant-based) come with two patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "two patty's, american cheese, sesame seed milk bun",
+      "optionals": "Bacon, lettuce bun, Matty's Patty's Sauce, Pickled Jalapeno Mayo, Spicy Ketchup",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "923a ",
+          "line1": "Queen St W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1G5",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Triple Impossible Cheeseburger",
+      "restaurant": "Matty's Patty's",
+      "web": "https://www.mattyspattysburgerclub.com/",
+      "image":"https://media.istockphoto.com/photos/error-with-a-kitten-picture-id856017598?k=6&m=856017598&s=170667a&w=0&h=kfJbRdH8sX4bNs96rdBcxL8a78DYH7Pd4F6CmmqALfE=",
+      "description": "Impossible cheeseburger (plant-based) come with one patty, American cheese and your choice of sauce on a sesame seed milk bun.",
+      "ingredients": "three patty's, american cheese, sesame seed milk bun",
+      "optionals": "Bacon, lettuce bun, Matty's Patty's Sauce, Pickled Jalapeno Mayo, Spicy Ketchup",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "923a ",
+          "line1": "Queen St W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1G5",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 7,
       "name": "Original",
       "restaurant": "Burger Drops",
       "web": "https://www.burgerdrops.com/",
-      "description": "Our burgers are made with our signiture blend of premium AAA beef cutes, delivered fresh each weel and ground in-house daily.",
+      "image":"https://www.instagram.com/p/CMDOy3GhQyc/",
+      "description": "Our burgers are made with our signiture blend of premium AAA beef cuts, delivered fresh each week and ground in-house daily.",
       "ingredients": "AAA beef, sweet onion, american cheese, house pickles, potato roll",
+      "optionals": "Bacon, Chili, Jalapeno Relish, Lettuce bun",
+      "isVegetarian": false,
       "addresses": [
         {
           "addressID": "0",
@@ -37,12 +169,35 @@
       ]
     },
     {
-      "id": 2,
-      "name": "Impossible Burger",
+      "id": 8,
+      "name": "American",
+      "restaurant": "Burger Drops",
+      "web": "https://www.burgerdrops.com/",
+      "image":"https://www.instagram.com/p/CMU64AMBZHO/",
+      "description": "Our burgers are made with our signiture blend of premium AAA beef cuts, delivered fresh each week and ground in-house daily.",
+      "ingredients": "AAA beef, Ketchup relish, diced onion, lettuce, american cheese, Drop Sauce, potato roll",
+      "optionals": "Bacon, Chili, Jalapeno Relish, Lettuce bun",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "116",
+          "line1": "Atlantic ave",
+          "line2": "Toronto",
+          "postalCode": "M6K 1X9",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Single Burger",
       "restaurant": "Extra Burger",
       "web": "https://extraburger.ca/",
-      "description": "Vegetarian, not vegan",
-      "ingredients": "Impossible Burger, american cheese, tomatoes, pickles, lettuce, secret sauce, martin's potato roll",
+      "image":"https://www.instagram.com/p/CLnEV8qgjyz/",
+      "description": "",
+      "ingredients": "Ground Chuck, american cheese, tomatoes, pickles, lettuce, secret sauce, martin's potato roll",
+      "isVegetarian": false,
       "addresses": [
         {
           "addressID": "0",
@@ -63,12 +218,70 @@
       ]
     },
     {
-      "id": 3,
-      "name": "The Bulldozer",
+      "id": 10,
+      "name": "Double Burger",
+      "restaurant": "Extra Burger",
+      "web": "https://extraburger.ca/",
+      "image":"https://www.instagram.com/p/CKbpK-HgrdZ/",
+      "description": "",
+      "ingredients": "Ground Chuck x2, american cheese, tomatoes, pickles, lettuce, secret sauce, martin's potato roll",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Dunn ave",
+          "line2": "Toronto",
+          "postalCode": "M6K 2S1",
+          "country": "Canada"
+        },
+        {
+          "addressID": "1",
+          "number": "1265",
+          "line1": "Dundas st. W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1X6",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Impossible Burger",
+      "restaurant": "Extra Burger",
+      "web": "https://extraburger.ca/",
+      "image":"https://www.instagram.com/p/CODzQrEgDbr/",
+      "description": "Vegetarian, not vegan",
+      "ingredients": "Impossible Burger, american cheese, tomatoes, pickles, lettuce, secret sauce, martin's potato roll",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Dunn ave",
+          "line2": "Toronto",
+          "postalCode": "M6K 2S1",
+          "country": "Canada"
+        },
+        {
+          "addressID": "1",
+          "number": "1265",
+          "line1": "Dundas st. W",
+          "line2": "Toronto",
+          "postalCode": "M6J 1X6",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Captain Jerk",
       "restaurant": "The Burgernator",
       "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p114_i1_w1080.jpeg",
       "description": "Burger of Mass Destruction",
-      "ingredients": "lamb, havarti, mango salsa, jalapeno, chipotle aioli",
+      "ingredients": "Beef Batty, grilled pineapple, havarti, lettuce, tomato, jerk sauce",
+      "isVegetarian": false,
       "addresses": [
         {
           "addressID": "0",
@@ -81,12 +294,354 @@
       ]
     },
     {
-      "id": 4,
+      "id": 13,
+      "name": "Atomic Burger",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p158_i1_w1080.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Beef Patty, deep fried herb crusted cheese, tomato, lettuce, sun-dried tomato aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Drop Down & Give Me Spicy",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p93_i1_w1080.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Double Beef Patty, Chipotle BBQ sauce, Cheddar, Onion Rings, Jalapeno",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "The Bulldozer",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p39_i1_w1080.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "lamb, havarti, mango salsa, jalapeno, chipotle aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "The Bazooka Jr.",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p33_i1_w1080.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Beef Patty, fried Egg, Hot Peppers, Jack cheese, chipotle aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Big Bang",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p99_i1_w638.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Beef Patty, Buffalo Chicken, Cheddar, Tomato, Lettuce, Garlic, Rosemary aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Fully Loaded",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p133_i2_w1080.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Double Beef Patty, Cheddar, Fried Egg, Mushrooms, Caramelized Onion, Tomato, Lettuce, Burgernator sauce",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Hasta La Vista, Birdie",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p140_i1_w1080.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Chicken Breast, Mozzarella, field Mushrooms, Pesto aioli, Lettuce, Tomato",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Salmon-in-Chief",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://media.istockphoto.com/photos/error-with-a-kitten-picture-id856017598?k=6&m=856017598&s=170667a&w=0&h=kfJbRdH8sX4bNs96rdBcxL8a78DYH7Pd4F6CmmqALfE=",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Atlantic Salmon, Cheddar, Caramelized Onions, Lettuce, Tomato, Pickles, Chipotle Aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "The Resistance",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p149_i1_w640.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Cajun Chicken, Cheddar, Hot Pepper Salsa, Lettuce, Tomato, Chipotle aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "B Seven",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p123_i1_w1023.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Beef Patty, deep fried Cheese Patty, Jalapeno salsa, lettuce, Tomato, Habenero aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "The Burgernator",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p88_i1_w749.jpeg",
+      "description": "Burger of Mass Destruction",
+      "ingredients": "Triple Beef Patty, Grilled Cheese Sandwich Buns, Caramelized Onions, Mushrooms, Burgernator sauce",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Sergent Burger",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p90_i1_w3024.jpeg?width=1280",
+      "description": "Classic Arsenal",
+      "ingredients": "Beef Patty, Burgernator sauce, Lettuce, Tomato, Pickles",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Commander Burger",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p67_i1_w1080.jpeg",
+      "description": "Classic Arsenal",
+      "ingredients": "Beef Patty, Cheddar, Burgernator sauce, Lettuce, Tomato, Pickles",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Lieutenant Burger",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p63_i1_w980.jpeg",
+      "description": "Classic Arsenal",
+      "ingredients": "Double Beef Patty, Cheddar, Burgernator sauce, Lettuce, Tomato, Pickles",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Baconator Burger",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p115_i1_w550.jpeg",
+      "description": "Classic Arsenal",
+      "ingredients": "Two 40z Beef Patty, Beef Bacon, Cheddar, Lettuce, Tomato, Pickles, Garlic aioli",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "AK-Veggie 7",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p100_i1_w1280.jpeg",
+      "description": "Vegetarian",
+      "ingredients": "Vegan Patty, Mushrooms, Caramelized Onions, Guacamole, Lettuce, Tomato, Pickles",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Battle Fields",
+      "restaurant": "The Burgernator",
+      "web": "https://www.theburgernator.com/",
+      "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p97_i1_w550.jpeg",
+      "description": "Vegetarian",
+      "ingredients": "Portobello Mushroom stuffed with cheese and herbs, Lettuce, Tomato, Garlic, Rosemary aioli",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "269",
+          "line1": "Augusta ave",
+          "line2": "Toronto",
+          "postalCode": "M5T 2M1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 30,
       "name": "The Kumasi Burger",
       "restaurant": "Aunty Lucy's",
       "web": "https://www.instagram.com/auntylucysburgers/",
+      "image":"https://www.instagram.com/p/CPLu7D0tHbz/",
       "description": "Pop-up. Named after the city in Ghana where owner Chieff Bosompra's father is from",
-      "ingredients": "american cheese, lettuce, tomato, Lucy sauce",
+      "ingredients": "beef patty, american cheese, lettuce, tomato, Lucy sauce",
+      "isVegetarian": false,
       "addresses": [
         {
           "addressID": "0",
@@ -94,6 +649,335 @@
           "line1": "Brunswick ave",
           "line2": "Toronto",
           "postalCode": "M5S 1X9",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "The Accra Burger",
+      "restaurant": "Aunty Lucy's",
+      "web": "https://www.instagram.com/auntylucysburgers/",
+      "image":"https://www.instagram.com/p/CHbZMXTAeu-/",
+      "description": "Pop-up. Named after the city in Ghana where owner Chieff Bosompra's father is from",
+      "ingredients": "two beef patties, american cheese, lettuce, tomato, Lucy sauce",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "296",
+          "line1": "Brunswick ave",
+          "line2": "Toronto",
+          "postalCode": "M5S 1X9",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Happy Cheeseburger",
+      "restaurant": "Happy Burger",
+      "web": "https://happyburger.ca/",
+      "image":"https://img1.wsimg.com/isteam/ip/d45d18d8-2dd3-407d-8d2a-12b479e8ec67/Happy%20Cheeseburger%2045.jpg/:/rs=w:720,h:540,cg:true,m/cr=w:720,h:540",
+      "description": "Our smash patties are made using high quality fresh ground beef, so salt & pepper is all we season with.",
+      "ingredients": "beef patty, cheese, lettuce, tomato, pickle, happy sauce, potato bun",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "76",
+          "line1": "Lippincott st",
+          "line2": "Toronto",
+          "postalCode": "M5S 2P2",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Double Happy Cheeseburger",
+      "restaurant": "Happy Burger",
+      "web": "https://happyburger.ca/",
+      "image":"https://img1.wsimg.com/isteam/ip/d45d18d8-2dd3-407d-8d2a-12b479e8ec67/Double%20Happy%20Cheeseburger%2045.jpg/:/rs=w:720,h:540,cg:true,m/cr=w:720,h:540",
+      "description": "Our smash patties are made using high quality fresh ground beef, so salt & pepper is all we season with.",
+      "ingredients": " double beef patty, cheese, lettuce, tomato, pickle, happy sauce, potato bun",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "76",
+          "line1": "Lippincott st",
+          "line2": "Toronto",
+          "postalCode": "M5S 2P2",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Happy Chicken",
+      "restaurant": "Happy Burger",
+      "web": "https://happyburger.ca/",
+      "image":"https://img1.wsimg.com/isteam/ip/d45d18d8-2dd3-407d-8d2a-12b479e8ec67/Happy%20Chicken%2045-0001.jpg/:/rs=w:720,h:540,cg:true,m/cr=w:720,h:540",
+      "description": "Our smash patties are made using high quality fresh ground beef, so salt & pepper is all we season with.",
+      "ingredients": "fried chicken breast, cheese, lettuce, tomato, pickle, happy sauce, potato bun",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "76",
+          "line1": "Lippincott st",
+          "line2": "Toronto",
+          "postalCode": "M5S 2P2",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Pastrami Burger",
+      "restaurant": "Happy Burger",
+      "web": "https://happyburger.ca/",
+      "image":"https://img1.wsimg.com/isteam/ip/d45d18d8-2dd3-407d-8d2a-12b479e8ec67/Pastrami%20Burger%2045.jpg/:/rs=w:720,h:540,cg:true,m/cr=w:720,h:540",
+      "description": "Our smash patties are made using high quality fresh ground beef, so salt & pepper is all we season with.",
+      "ingredients": "beef patty, steamed pastrami, cheese, lettuce, tomato, pickle, happy sauce, potato bun",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "76",
+          "line1": "Lippincott st",
+          "line2": "Toronto",
+          "postalCode": "M5S 2P2",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Impossible Veggie Cheeseburger",
+      "restaurant": "Happy Burger",
+      "web": "https://happyburger.ca/",
+      "image":"https://img1.wsimg.com/isteam/ip/d45d18d8-2dd3-407d-8d2a-12b479e8ec67/Impossible%20Cheeseburger%2090.jpg/:/rs=w:720,h:540,cg:true,m/cr=w:720,h:540",
+      "description": "Our smash patties are made using high quality fresh ground beef, so salt & pepper is all we season with.",
+      "ingredients": "plant-based veggie burger, cheese, lettuce, tomato, pickle, happy sauce, potato bun",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "76",
+          "line1": "Lippincott st",
+          "line2": "Toronto",
+          "postalCode": "M5S 2P2",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Impossible Vegan Cheeseburger",
+      "restaurant": "Happy Burger",
+      "web": "https://happyburger.ca/",
+      "image":"https://img1.wsimg.com/isteam/ip/d45d18d8-2dd3-407d-8d2a-12b479e8ec67/Impossible%20Vegan%20Cheeseburger%2045.jpg/:/rs=w:720,h:540,cg:true,m/cr=w:720,h:540",
+      "description": "Our smash patties are made using high quality fresh ground beef, so salt & pepper is all we season with.",
+      "ingredients": "plant-based veggie burger, vegan cheese, lettuce, tomato, pickle, vegan happy sauce, vegan bun",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "76",
+          "line1": "Lippincott st",
+          "line2": "Toronto",
+          "postalCode": "M5S 2P2",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Plain Jane",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/c252c3c0-6b1f-4c07-abbb-94dbfc629824.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "4 oz Smashed Beef patty, American cheese, pickles, onion, ketchup",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Green Burger",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/38aa741e-ffa2-45cc-a18f-b87aabc12c8d.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "4oz Green chorizo (contains pork), Havarti cheese, spicy pickled onion, tomatillo relish",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Double Jane",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/a57aa21b-7b67-49fe-b16b-1f80624ddedf.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "Double beef patty, cheese, pickles, onion, ketchup",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Big Jane",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/ad31b10b-5dd2-423b-926b-b9e46b09566f.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "4oz Smashed Beef patty, American cheese, garlic mayo, bacon, spicy back bacon, hot peppers",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Vegan Jane",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/1ff62e59-dae3-437f-9b67-14f3e961fd8b.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "Vegan patty, vegan cheese, Harry’s sauce, lettuce, tomato, onion, pickle. Patty is made with Impossible Meat (Soy/Potato based)",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": true,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Red Burger",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/7644e939-e3fc-4db9-964c-db6eb6559d9f.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "4oz Red chorizo (contains pork), Havarti cheese, pickled jalapeño mayo, charred pineapple",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Classic Jane",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/141935fa-0791-4ef3-b029-da5220489707.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "4oz Smashed Beef patty, American cheese, pickles, onions, tomato, lettuce, Harry's sauce",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Red-Green Burger",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/26253f56-48ab-4a3e-9759-02ca16512aed.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "4oz Red and Green chorizo patties (contains pork), Havarti cheese, pickled onion, tomatillo relish, charred pineapple, pickled jalapeno mayo",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "BBQ Jane",
+      "restaurant": "Harry's Charbroiled",
+      "web": "https://harrys.ambassador.ai/",
+      "image":"https://d1ralsognjng37.cloudfront.net/cd4a890e-ee78-4633-ad52-c4ff4b9afdad.jpeg",
+      "description": "ALWAYS FLIPPIN’, NEVER SLIPPIN’",
+      "ingredients": "4oz Smashed Beef patty, American cheese, Crispy Jalapeño (Contains Gluten), Caramelized Onions, BBQ Mayo",
+      "optionals": "Gluten-Free bun, Bacon",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": "0",
+          "number": "293",
+          "line1": "Palmerston ave",
+          "line2": "Toronto",
+          "postalCode": "M6J 2J3",
           "country": "Canada"
         }
       ]
