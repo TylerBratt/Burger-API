@@ -2133,12 +2133,12 @@
     },
     {
       "id": 88,
-      "name": "",
+      "name": "Cheeseburger",
       "restaurant": "Gianna's Patties and Pies",
       "web": "https://www.instagram.com/giannastoronto/?hl=en",
-      "image":"",
+      "image":"https://d1ralsognjng37.cloudfront.net/0547eca5-2b14-4893-9859-04072bd7eebe.jpeg",
       "description": "",
-      "ingredients": "",
+      "ingredients": "Smash Patty, American Cheddar, Special Sauce, House Pickle, Shrettuce, Onion, Martins Roll",
       "optionals": "",
       "isVegetarian": false,
       "addresses": [
@@ -2153,13 +2153,13 @@
       ]
     },
     {
-      "id": 88,
-      "name": "",
+      "id": 89,
+      "name": "Double Cheeseburger",
       "restaurant": "Gianna's Patties and Pies",
       "web": "https://www.instagram.com/giannastoronto/?hl=en",
-      "image":"",
+      "image":"https://d1ralsognjng37.cloudfront.net/4763882b-8a98-4931-ba31-e253d53e69db.jpeg",
       "description": "",
-      "ingredients": "",
+      "ingredients": "Double Smash Patty, Double American Cheddar, Special Sauce, House Pickle, Shrettuce, Onion, Martins Roll",
       "optionals": "",
       "isVegetarian": false,
       "addresses": [
