@@ -4,6 +4,7 @@
       "id": 0,
       "name": "Matty's 7oz Cheeseburger",
       "restaurant": "Matty's Patty's",
+      "restaurantID": 0,
       "web": "https://www.mattyspattysburgerclub.com/",
       "image":"https://s3-media0.fl.yelpcdn.com/bphoto/WABKXYxGW6Cd_wIKnDkMkg/o.jpg",
       "description": "7oz cheeseburgers come with one 7oz patty's, American cheese and your choice of sauce on a sesame seed milk bun.",
