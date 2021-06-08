@@ -4856,6 +4856,29 @@
           "country": "Canada"
         }
       ]
+    },
+    {
+      "id": 131,
+      "name": "Bacon Cheeseburger Platter",
+      "restaurant": "The Duke of Duckworth",
+      "restaurantID": 28,
+      "brand":"https://static.wixstatic.com/media/2c9822_797863d0d70343a092a2c94b3852dde9.png/v1/fill/w_354,h_322,al_c,q_85,usm_0.66_1.00_0.01/2c9822_797863d0d70343a092a2c94b3852dde9.webp",
+      "web": "https://www.dukeofduckworth.com/",
+      "image":"https://www.thestar.com/content/dam/thestar/life/travel/2013/01/26/travel_food_quirky_frenchfry_traditions_from_around_the_world/newfie_fries.jpg",
+      "description": "Dis Burger is best kind!",
+      "ingredients": "Topped‎ w/ bacon, cheddar, lettuce & tomato. Served on a fresh kaiser roll, and maybe a plate of fries, dressing and gravy",
+      "optionals": "",
+      "isVegetarian": false,
+      "addresses": [
+        {
+          "addressID": 0,
+          "number": "325",
+          "line1": "Duckworth St",
+          "line2": "St. John's",
+          "postalCode": "A1C 1G9",
+          "country": "Canada"
+        }
+      ]
     }
   ]
 }
