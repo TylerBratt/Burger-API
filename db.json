@@ -14,13 +14,15 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
-          "number": "923a ",
+          "addressID": 0,
+          "number": "923a",
           "line1": "Queen St W",
           "line2": "Toronto",
           "postalCode": "M6J 1G5",
-          "country": "Canada"
-        }
+          "country": "Canada",
+          "lat": 43.64509895344858,
+          "long": -79.4124331926009
+        } 
       ]
     },
     {
@@ -37,12 +39,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
-          "number": "923a ",
+          "addressID": 0,
+          "number": "923a",
           "line1": "Queen St W",
           "line2": "Toronto",
           "postalCode": "M6J 1G5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64509895344858,
+          "long": -79.4124331926009
         }
       ]
     },
@@ -60,12 +64,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
-          "number": "923a ",
+          "addressID": 0,
+          "number": "923a",
           "line1": "Queen St W",
           "line2": "Toronto",
           "postalCode": "M6J 1G5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64509895344858,
+          "long": -79.4124331926009
         }
       ]
     },
@@ -83,12 +89,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
-          "number": "923a ",
+          "addressID": 0,
+          "number": "923a",
           "line1": "Queen St W",
           "line2": "Toronto",
           "postalCode": "M6J 1G5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64509895344858,
+          "long": -79.4124331926009
         }
       ]
     },
@@ -106,12 +114,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
-          "number": "923a ",
+          "addressID": 0,
+          "number": "923a",
           "line1": "Queen St W",
           "line2": "Toronto",
           "postalCode": "M6J 1G5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64509895344858,
+          "long": -79.4124331926009
         }
       ]
     },
@@ -129,12 +139,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
-          "number": "923a ",
+          "addressID": 0,
+          "number": "923a",
           "line1": "Queen St W",
           "line2": "Toronto",
           "postalCode": "M6J 1G5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64509895344858,
+          "long": -79.4124331926009
         }
       ]
     },
@@ -152,12 +164,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
-          "number": "923a ",
+          "addressID": 0,
+          "number": "923a",
           "line1": "Queen St W",
           "line2": "Toronto",
           "postalCode": "M6J 1G5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64509895344858,
+          "long": -79.4124331926009
         }
       ]
     },
@@ -175,12 +189,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "116",
           "line1": "Atlantic ave",
           "line2": "Toronto",
           "postalCode": "M6K 1X9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.639742282357666, 
+          "long": -79.42116039864958
         }
       ]
     },
@@ -198,12 +214,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "116",
           "line1": "Atlantic ave",
           "line2": "Toronto",
           "postalCode": "M6K 1X9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.639742282357666, 
+          "long": -79.42116039864958
         }
       ]
     },
@@ -220,20 +238,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Dunn ave",
           "line2": "Toronto",
           "postalCode": "M6K 2S1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.641006085033546,
+          "long": -79.43429924652753
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "1265",
           "line1": "Dundas st. W",
           "line2": "Toronto",
           "postalCode": "M6J 1X6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.649292168731584,
+          "long": -79.42438818700606
         }
       ]
     },
@@ -250,20 +272,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Dunn ave",
           "line2": "Toronto",
           "postalCode": "M6K 2S1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.641006085033546,
+          "long": -79.43429924652753
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "1265",
           "line1": "Dundas st. W",
           "line2": "Toronto",
           "postalCode": "M6J 1X6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.649292168731584,
+          "long": -79.42438818700606
         }
       ]
     },
@@ -280,20 +306,24 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Dunn ave",
           "line2": "Toronto",
           "postalCode": "M6K 2S1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.641006085033546,
+          "long": -79.43429924652753
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "1265",
           "line1": "Dundas st. W",
           "line2": "Toronto",
           "postalCode": "M6J 1X6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.649292168731584,
+          "long": -79.42438818700606
         }
       ]
     },
@@ -302,7 +332,7 @@
       "name": "Captain Jerk",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"https://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p114_i1_w1080.jpeg",
       "description": "Burger of Mass Destruction",
@@ -310,12 +340,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -324,7 +356,7 @@
       "name": "Atomic Burger",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"https://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p158_i1_w1080.jpeg",
       "description": "Burger of Mass Destruction",
@@ -332,12 +364,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -346,7 +380,7 @@
       "name": "Drop Down & Give Me Spicy",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"https://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p93_i1_w1080.jpeg",
       "description": "Burger of Mass Destruction",
@@ -354,12 +388,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -368,7 +404,7 @@
       "name": "The Bulldozer",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p39_i1_w1080.jpeg",
       "description": "Burger of Mass Destruction",
@@ -376,12 +412,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -390,7 +428,7 @@
       "name": "The Bazooka Jr.",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p33_i1_w1080.jpeg",
       "description": "Burger of Mass Destruction",
@@ -398,12 +436,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -412,7 +452,7 @@
       "name": "The Big Bang",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p99_i1_w638.jpeg",
       "description": "Burger of Mass Destruction",
@@ -420,12 +460,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -434,7 +476,7 @@
       "name": "Fully Loaded",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p133_i2_w1080.jpeg",
       "description": "Burger of Mass Destruction",
@@ -442,12 +484,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -456,7 +500,7 @@
       "name": "Hasta La Vista, Birdie",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p140_i1_w1080.jpeg",
       "description": "Burger of Mass Destruction",
@@ -464,12 +508,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -478,7 +524,7 @@
       "name": "The Resistance",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p149_i1_w640.jpeg",
       "description": "Burger of Mass Destruction",
@@ -486,12 +532,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -500,7 +548,7 @@
       "name": "B Seven",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p123_i1_w1023.jpeg",
       "description": "Burger of Mass Destruction",
@@ -508,12 +556,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -522,7 +572,7 @@
       "name": "The Burgernator",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p88_i1_w749.jpeg",
       "description": "Burger of Mass Destruction",
@@ -530,12 +580,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -544,7 +596,7 @@
       "name": "Sergent Burger",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p90_i1_w3024.jpeg?width=1280",
       "description": "Classic Arsenal",
@@ -552,12 +604,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -566,7 +620,7 @@
       "name": "Commander Burger",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p67_i1_w1080.jpeg",
       "description": "Classic Arsenal",
@@ -574,12 +628,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -588,7 +644,7 @@
       "name": "Lieutenant Burger",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p63_i1_w980.jpeg",
       "description": "Classic Arsenal",
@@ -596,12 +652,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -610,7 +668,7 @@
       "name": "Baconator Burger",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p115_i1_w550.jpeg",
       "description": "Classic Arsenal",
@@ -618,12 +676,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -632,7 +692,7 @@
       "name": "AK-Veggie 7",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p100_i1_w1280.jpeg",
       "description": "Vegetarian",
@@ -640,12 +700,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -654,7 +716,7 @@
       "name": "Battle Fields",
       "restaurant": "The Burgernator",
       "restaurantID": 4,
-      "brand":"ttps://order.theburgernator.com/uploads/b/9cc59bb0-6860-11ea-87c9-a39b6e8ed160/burgerlogo.png",
+      "brand":"https://www.theburgernator.com/img/logo-black.png",
       "web": "https://www.theburgernator.com/",
       "image":"https://order.theburgernator.com/uploads/1/6/9/4/16943084/s533491658763474124_p97_i1_w550.jpeg",
       "description": "Vegetarian",
@@ -662,12 +724,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "269",
           "line1": "Augusta ave",
           "line2": "Toronto",
           "postalCode": "M5T 2M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65580836320776,
+          "long": -79.40234357351292
         }
       ]
     },
@@ -684,12 +748,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "296",
           "line1": "Brunswick ave",
           "line2": "Toronto",
           "postalCode": "M5S 1X9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66571295473048,
+          "long": -79.40760952378486
         }
       ]
     },
@@ -706,12 +772,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "296",
           "line1": "Brunswick ave",
           "line2": "Toronto",
           "postalCode": "M5S 1X9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66571295473048,
+          "long": -79.40760952378486
         }
       ]
     },
@@ -728,12 +796,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "76",
           "line1": "Lippincott st",
           "line2": "Toronto",
           "postalCode": "M5S 2P2",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.657225270472715,
+          "long": -79.40682704652691
         }
       ]
     },
@@ -750,12 +820,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "76",
           "line1": "Lippincott st",
           "line2": "Toronto",
           "postalCode": "M5S 2P2",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.657225270472715,
+          "long": -79.40682704652691
         }
       ]
     },
@@ -772,12 +844,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "76",
           "line1": "Lippincott st",
           "line2": "Toronto",
           "postalCode": "M5S 2P2",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.657225270472715,
+          "long": -79.40682704652691
         }
       ]
     },
@@ -794,12 +868,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "76",
           "line1": "Lippincott st",
           "line2": "Toronto",
           "postalCode": "M5S 2P2",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.657225270472715,
+          "long": -79.40682704652691
         }
       ]
     },
@@ -816,12 +892,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "76",
           "line1": "Lippincott st",
           "line2": "Toronto",
           "postalCode": "M5S 2P2",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.657225270472715,
+          "long": -79.40682704652691
         }
       ]
     },
@@ -838,12 +916,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "76",
           "line1": "Lippincott st",
           "line2": "Toronto",
           "postalCode": "M5S 2P2",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.657225270472715,
+          "long": -79.40682704652691
         }
       ]
     },
@@ -861,12 +941,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -884,12 +966,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -907,12 +991,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -930,12 +1016,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -953,12 +1041,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -976,12 +1066,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -999,12 +1091,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -1022,12 +1116,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -1045,12 +1141,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "293",
           "line1": "Palmerston ave",
           "line2": "Toronto",
           "postalCode": "M6J 2J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655867712358024,
+          "long": -79.40988234837683
         }
       ]
     },
@@ -1068,44 +1166,54 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "619",
           "line1": "College st",
           "line2": "Toronto",
           "postalCode": "M6G 1B5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65618856508653,
+          "long": -79.41495227942573
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "69",
           "line1": "Duncan st",
           "line2": "Toronto",
           "postalCode": "M5V 2C5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.650847891727025,
+          "long": -79.38928890447076
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "1330",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4J 1M9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.6852769132058,
+          "long": -79.32844118315435
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "168",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70811790136814,
+          "long": -79.39320101583984
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "1466",
           "line1": "The Queensway",
           "line2": "Etobicoke",
           "postalCode": "M8Z 1T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.61975308668991,
+          "long": -79.53460354652822
         }
       ]
     },
@@ -1123,44 +1231,54 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "619",
           "line1": "College st",
           "line2": "Toronto",
           "postalCode": "M6G 1B5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65618856508653,
+          "long": -79.41495227942573
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "69",
           "line1": "Duncan st",
           "line2": "Toronto",
           "postalCode": "M5V 2C5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.650847891727025,
+          "long": -79.38928890447076
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "1330",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4J 1M9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.6852769132058,
+          "long": -79.32844118315435
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "168",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70811790136814,
+          "long": -79.39320101583984
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "1466",
           "line1": "The Queensway",
           "line2": "Etobicoke",
           "postalCode": "M8Z 1T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.61975308668991,
+          "long": -79.53460354652822
         }
       ]
     },
@@ -1178,44 +1296,54 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "619",
           "line1": "College st",
           "line2": "Toronto",
           "postalCode": "M6G 1B5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65618856508653,
+          "long": -79.41495227942573
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "69",
           "line1": "Duncan st",
           "line2": "Toronto",
           "postalCode": "M5V 2C5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.650847891727025,
+          "long": -79.38928890447076
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "1330",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4J 1M9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.6852769132058,
+          "long": -79.32844118315435
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "168",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70811790136814,
+          "long": -79.39320101583984
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "1466",
           "line1": "The Queensway",
           "line2": "Etobicoke",
           "postalCode": "M8Z 1T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.61975308668991,
+          "long": -79.53460354652822
         }
       ]
     },
@@ -1233,12 +1361,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "73",
           "line1": "St Nicholas st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66760539907547,
+          "long": -79.38651410234819
         }
       ]
     },
@@ -1256,12 +1386,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "73",
           "line1": "St Nicholas st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66760539907547,
+          "long": -79.38651410234819
         }
       ]
     },
@@ -1279,12 +1411,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "73",
           "line1": "St Nicholas st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66760539907547,
+          "long": -79.38651410234819
         }
       ]
     },
@@ -1302,28 +1436,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1341,28 +1471,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1380,28 +1506,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1419,28 +1541,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1458,28 +1576,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1497,28 +1611,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1536,28 +1646,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1575,28 +1681,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1614,28 +1716,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1653,28 +1751,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1692,28 +1786,24 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1731,28 +1821,24 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1450",
           "line1": "Yonge st",
           "line2": "Toronto",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.70108021002589,
+          "long": -79.39546290677836
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "4421",
           "line1": "Hwy 7",
           "line2": "Woodbridge",
           "postalCode": "M4Y 1W6",
-          "country": "Canada"
-        },
-        {
-          "addressID": "2",
-          "number": "586",
-          "line1": "Yonge st",
-          "line2": "Toronto",
-          "postalCode": "M4Y 1W6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.793474234852404,
+          "long": -79.57194411861958
         }
       ]
     },
@@ -1770,12 +1856,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1793,12 +1881,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1816,12 +1906,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1839,12 +1931,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1862,12 +1956,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1885,12 +1981,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1908,12 +2006,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1931,12 +2031,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Nassau st.",
           "line2": "Toronto",
           "postalCode": "M5T 1M5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.655390977086576,
+          "long": -79.40260294467723
         }
       ]
     },
@@ -1954,12 +2056,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -1977,12 +2081,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2000,12 +2106,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2023,12 +2131,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2046,12 +2156,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2069,12 +2181,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2092,12 +2206,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2115,12 +2231,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2138,12 +2256,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2161,12 +2281,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2184,12 +2306,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2207,12 +2331,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2230,12 +2356,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2253,12 +2381,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2276,12 +2406,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st. W",
           "line2": "Toronto",
           "postalCode": "M6K 0B9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64215290446323,
+          "long": -79.42888663118474
         }
       ]
     },
@@ -2299,12 +2431,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1554",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6R 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.6401923007829,
+          "long": -79.43997394467776
         }
       ]
     },
@@ -2322,12 +2456,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1554",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6R 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.6401923007829,
+          "long": -79.43997394467776
         }
       ]
     },
@@ -2347,76 +2483,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -2436,76 +2590,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -2525,76 +2697,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -2614,76 +2804,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -2703,76 +2911,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -2792,76 +3018,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -2881,76 +3125,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -2970,76 +3232,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3059,76 +3339,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3148,76 +3446,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3237,76 +3553,94 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3326,76 +3660,94 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3500,76 +3852,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3587,76 +3957,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3674,76 +4062,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3761,76 +4167,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3848,76 +4272,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -3935,76 +4377,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -4022,76 +4482,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -4109,76 +4587,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -4196,76 +4692,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -4283,76 +4797,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -4370,76 +4902,94 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "406",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 1X5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.666189437708624,
+          "long": -79.40790708885527
         },
         {
-          "addressID": "1",
+          "addressID": 1,
           "number": "507",
           "line1": "Danforth ave",
           "line2": "Toronto",
           "postalCode": "M4K 1P5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.67816816492951,
+          "long": -79.34894848885487
         },
         {
-          "addressID": "2",
+          "addressID": 2,
           "number": "579",
           "line1": "King st W",
           "line2": "Toronto",
           "postalCode": "M5V 1M1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64454350981331,
+          "long": -79.39973576002033
         },
         {
-          "addressID": "3",
+          "addressID": 3,
           "number": "1120",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1H9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.643573893253304,
+          "long": -79.42334262933485
         },
         {
-          "addressID": "4",
+          "addressID": 4,
           "number": "463",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M5V 2A9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64852144437594,
+          "long": -79.39733923118452
         },
         {
-          "addressID": "5",
+          "addressID": 5,
           "number": "1636",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4L 1G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66697506200555,
+          "long": -79.31555344467684
         },
         {
-          "addressID": "6",
+          "addressID": 6,
           "number": "3397",
           "line1": "Yonge st",
           "line2": "North York",
           "postalCode": "M4N 2M8",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.73268306949576,
+          "long": -79.40397361768878
         },
         {
-          "addressID": "7",
+          "addressID": 7,
           "number": "2",
           "line1": "Eglington ave E",
           "line2": "Toronto",
           "postalCode": "M4P 1A6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.707132092786026,
+          "long": -79.39802701399009
         },
         {
-          "addressID": "8",
+          "addressID": 8,
           "number": "3280",
           "line1": "Dufferin st",
           "line2": "Toronto",
           "postalCode": "M6A 2T5",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.72090507279182,
+          "long": -79.45665201583937
         }
       ]
     },
@@ -4457,12 +5007,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "208",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 3B4",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66863692835265,
+          "long": -79.39580604467683
         }
       ]
     },
@@ -4480,12 +5032,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "208",
           "line1": "Bloor st W",
           "line2": "Toronto",
           "postalCode": "M5S 3B4",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.66863692835265,
+          "long": -79.39580604467683
         }
       ]
     },
@@ -4503,12 +5057,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "758",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M4M 1H4",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.659636915639545,
+          "long": -79.34795524467708
         }
       ]
     },
@@ -4526,12 +5082,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1",
           "line1": "Richmond. st W",
           "line2": "Toronto",
           "postalCode": "M5H 3W4",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65167180206098,
+          "long": -79.37955181769146
         }
       ]
     },
@@ -4549,12 +5107,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1",
           "line1": "Richmond. st W",
           "line2": "Toronto",
           "postalCode": "M5H 3W4",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.65167180206098,
+          "long": -79.37955181769146
         }
       ]
     },
@@ -4572,12 +5132,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1150",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64340138548126,
+          "long": -79.42453121399217
         }
       ]
     },
@@ -4595,12 +5157,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1150",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6J 1J3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64340138548126,
+          "long": -79.42453121399217
         }
       ]
     },
@@ -4618,12 +5182,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "955",
           "line1": "Gerrard st E",
           "line2": "Toronto",
           "postalCode": "M4M 1Z4",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.668381617988935,
+          "long": -79.33972212933405
         }
       ]
     },
@@ -4641,12 +5207,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "955",
           "line1": "Gerrard st E",
           "line2": "Toronto",
           "postalCode": "M4M 1Z4",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.668381617988935,
+          "long": -79.33972212933405
         }
       ]
     },
@@ -4664,12 +5232,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1454",
           "line1": "Dundas st W",
           "line2": "Toronto",
           "postalCode": "M6J 1Y6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64988466704673,
+          "long": -79.43059133118444
         }
       ]
     },
@@ -4687,12 +5257,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "163",
           "line1": "Spadina ave",
           "line2": "Toronto",
           "postalCode": "M5V 2L6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.648690496949804,
+          "long": -79.39589575817043
         }
       ]
     },
@@ -4701,7 +5273,7 @@
       "name": "Kōst Burger",
       "restaurant": "KOST",
       "restaurantID": 22,
-      "brand":"https://lh3.googleusercontent.com/proxy/kur6UFX3R7zeZTgIdsihBPN4QqSDnVobm6BkG2j6hgPrD0xa6aZ9MngaNb86klAK5LP5UkoEAEvYa0e3h_s0Aw",
+      "brand":"https://websitesca.sfo2.digitaloceanspaces.com/directory-logo/logo-Bklrf3ClM7",
       "web": "https://kosttoronto.com",
       "image":"https://d1ralsognjng37.cloudfront.net/21fd0e0b-a098-4953-8280-739c5cb3c21b.jpeg",
       "description": "Served with fries or salad; Available Between 11AM and 3PM On Weekdays",
@@ -4710,12 +5282,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "80",
           "line1": "Blue Jays Way",
           "line2": "Toronto",
           "postalCode": "M5V 2G3",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.645366652530825,
+          "long": -79.39244547536306
         }
       ]
     },
@@ -4733,12 +5307,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "66",
           "line1": "Wellington st W",
           "line2": "Toronto",
           "postalCode": "M5K 1M6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.647855899538676,
+          "long": -79.38092827166342
         }
       ]
     },
@@ -4756,12 +5332,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1426",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6K 1L9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64114546344158,
+          "long": -79.43522517536317
         }
       ]
     },
@@ -4779,12 +5357,14 @@
       "isVegetarian": true,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1426",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6K 1L9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64114546344158,
+          "long": -79.43522517536317
         }
       ]
     },
@@ -4802,12 +5382,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "99",
           "line1": "Queen st E",
           "line2": "Toronto",
           "postalCode": "M5C 1S1",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.653400095582455,
+          "long": -79.37479873118433
         }
       ]
     },
@@ -4825,12 +5407,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1438",
           "line1": "Dundas st W",
           "line2": "Toronto",
           "postalCode": "M6J 1Y6",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.649963603734605,
+          "long": -79.43008244467737
         }
       ]
     },
@@ -4848,12 +5432,14 @@
       "isVegetarian": false,
       "addresses": [
         {
-          "addressID": "0",
+          "addressID": 0,
           "number": "1205",
           "line1": "Queen st W",
           "line2": "Toronto",
           "postalCode": "M6K 1L2",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 43.64209147385718,
+          "long": -79.42877471584205
         }
       ]
     },
@@ -4876,7 +5462,9 @@
           "line1": "Duckworth St",
           "line2": "St. John's",
           "postalCode": "A1C 1G9",
-          "country": "Canada"
+          "country": "Canada",
+          "lat": 47.56439798281175,
+          "long": -52.707871404064534
         }
       ]
     }
